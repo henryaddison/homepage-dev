@@ -76,4 +76,4 @@ exclude:
 - README.md
 - vendor
 
-theme: jekyll-theme-leap-day
+remote_theme: henryaddison/so-simple-theme
